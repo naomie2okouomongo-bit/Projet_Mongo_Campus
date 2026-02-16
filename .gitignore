@@ -1,0 +1,21 @@
+# Fichiers locaux sensibles
+config.local.php
+.env
+
+# Vendor (si composer)
+vendor/
+
+# Fichiers temporaires
+*.log
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# PHPUnit
+.phpunit.result.cache
